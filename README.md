@@ -4,6 +4,7 @@ A collection of problems solved using common medium complexity algorithms and st
 
 * Kruskals
 * Prims
+* Djikstra
 * APSP
 * DP
 * Greedy
